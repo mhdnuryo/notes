@@ -1,1 +1,2 @@
-# notes
+# repo: notes
+# author: iqbal
